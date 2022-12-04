@@ -4,6 +4,6 @@
 />
 Example:
 <img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  src="https://github.com/fuzz6001/fuzz6001/blob/main/images/stat.svg"
   alt="Avinal WakaTime Activity"
 />
