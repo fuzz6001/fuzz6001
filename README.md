@@ -3,6 +3,7 @@
   alt="WakaTime Activity"
 />
 
+<div>
 <img src="images/wakatime2025.png" alt="2025">
-<br>
 <img src="images/wakatime2024.png" alt="2024" width="49%" align="left"><img src="images/wakatime2023.png" alt="2023" width="49%" align="right">
+</div>
