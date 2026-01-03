@@ -4,5 +4,7 @@
 />
 
 <img src="images/wakatime2025.png" alt="2025">
-<img src="images/wakatime2024.png" alt="2024" width="49%" align="left" hspace="0" vspace="0">
-<img src="images/wakatime2023.png" alt="2023" width="49%" align="right" hspace="0" vspace="0">
+<p>
+<img src="images/wakatime2024.png" alt="2024" width="49%" align="left">
+<img src="images/wakatime2023.png" alt="2023" width="49%" align="right">
+</p>
