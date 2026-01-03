@@ -5,8 +5,8 @@
 
 <p align="center">
 <img src="images/wakatime2025.png" alt="2025">
+</p>
 <div style="display: flex; justify-content: space-between;">
   <img src="images/wakatime2024.png" alt="2024" width="49%">
   <img src="images/wakatime2023.png" alt="2023" width="49%">
 </div>
-</p>
